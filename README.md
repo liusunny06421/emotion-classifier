@@ -103,7 +103,9 @@ Confidence scores:
 | `emotion_classifier.py` | Training script |
 | `predict_emotion.py` | Single-image inference |
 | `emotion_resnet18_best.pth` | Trained model checkpoint |
- 
+
+> **Note:** Model weights (`emotion_resnet18_best.pth`) are not included. Run `emotion_classifier.py` to train and generate them locally.
+
 ---
  
 ## Notes
